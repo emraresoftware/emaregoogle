@@ -1,0 +1,15 @@
+{
+  "name": "emaregoogle",
+  "version": "1.0.0",
+  "description": "Web otomasyon projesi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2",
+    "puppeteer": "13.7.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

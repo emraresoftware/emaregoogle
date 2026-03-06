@@ -1,0 +1,22 @@
+{
+  "slug": "emaregoogle",
+  "name": "Emare Google",
+  "github_repo": "emraresoftware/emaregoogle",
+  "branch": "main",
+  "dc": "local",
+  "server_host": null,
+  "server_ssh_port": 22,
+  "remote_path": "/opt/emaregoogle",
+  "stack": "python-gunicorn",
+  "port": 8304,
+  "domain": "",
+  "deploy_commands": [
+    "cd /opt/emaregoogle",
+    "git pull origin main",
+    "source venv/bin/activate && pip install -r requirements.txt -q",
+    "sudo systemctl restart emaregoogle"
+  ],
+  "restart_command": "systemctl status emaregoogle --no-pager",
+  "auto_deploy_on_push": false,
+  "health_check_url": null
+}
