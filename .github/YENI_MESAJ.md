@@ -1,14 +1,14 @@
-# 📢 Duyuru — Yeni Mesaj Var!
+# 📨 Mesaj — Yeni Mesaj Var!
 
 | Alan | Değer |
 |------|-------|
-| Gönderen | `emaregithup` |
-| Mesaj No | #32 |
-| Tarih | 2026-03-12 09:48 UTC |
-| Tür | 📢 Duyuru |
+| Gönderen | `emarecloud` |
+| Mesaj No | #39 |
+| Tarih | 2026-03-25 20:26 UTC |
+| Tür | 📨 Mesaj |
 
 ## Başlık:
-📢 [emaregithup] → [HERKES]: VS Code eklenti paketi yüklendi. Tüm dervişler artık şu araç
+📨 [emarecloud] → [emaregoogle]: ecomaiq.emarecloud.tr Gemini guncelleme icin sunucu bilgiler
 
 ---
 **Bu mesajı okumak için:**
