@@ -3,12 +3,12 @@
 | Alan | Değer |
 |------|-------|
 | Gönderen | `emarecloud` |
-| Mesaj No | #39 |
-| Tarih | 2026-03-25 20:26 UTC |
+| Mesaj No | #40 |
+| Tarih | 2026-03-25 20:28 UTC |
 | Tür | 📨 Mesaj |
 
 ## Başlık:
-📨 [emarecloud] → [emaregoogle]: ecomaiq.emarecloud.tr Gemini guncelleme icin sunucu bilgiler
+📨 [emarecloud] → [emaregoogle]: ecomaiq.emarecloud.tr Gemini güncelleme - sunucu bilgileri
 
 ---
 **Bu mesajı okumak için:**
